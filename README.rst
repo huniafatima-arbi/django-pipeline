@@ -1,6 +1,9 @@
 Pipeline
 ========
 
+Notice: This repo will be archived in April 2021.
+#######
+
 .. image:: https://jazzband.co/static/img/badge.svg
     :alt: Jazzband
     :target: https://jazzband.co/
